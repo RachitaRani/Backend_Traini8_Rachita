@@ -38,7 +38,7 @@ Traini8 is a Spring Boot-based application that provides APIs to manage a regist
 
 ### *Step 1: Clone the Repository*
 bash
-git clone https://github.com/<your-username>/traini8.git
+git clone https://github.com/RachitaRani/Backend_Traini8_Rachita.git
 cd traini8
 
 ### *Step 2: Configure PostgreSQL Database*
@@ -76,7 +76,7 @@ By default, the application will start at http://localhost:8080.
 ---
 
 ## *API Endpoints*
-For detailed API endpoints description visit <a href="">PDF</a>
+For detailed API endpoints description visit <a href="https://github.com/RachitaRani/Backend_Traini8_Rachita/blob/main/Training%20Center%20Registry%20API%20Documentation.pdf">PDF</a>
 
 ## *Database Configuration*
 This project uses *PostgreSQL* as the primary database. You need to configure the database details in the application.properties file:
@@ -96,7 +96,7 @@ spring.jpa.hibernate.ddl-auto=update
 ---
 
 ## *Testing the APIs*
-You can use *Postman* or *cURL* to interact with the APIs. For sample cURL commands to help you test the APIs <a href="">VISIT</a>
+You can use *Postman* or *cURL* to interact with the APIs. For sample cURL commands to help you test the APIs <a href="https://github.com/RachitaRani/Backend_Traini8_Rachita/blob/main/Training%20Center%20Registry%20API%20Documentation.pdf">VISIT</a>
 
 
 ### *License*

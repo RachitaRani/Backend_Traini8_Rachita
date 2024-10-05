@@ -39,7 +39,6 @@ Traini8 is a Spring Boot-based application that provides APIs to manage a regist
 ### *Step 1: Clone the Repository*
 bash
 git clone https://github.com/RachitaRani/Backend_Traini8_Rachita.git
-cd traini8
 
 ### *Step 2: Configure PostgreSQL Database*
 
